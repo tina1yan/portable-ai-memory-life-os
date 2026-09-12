@@ -1,0 +1,36 @@
+# Secrets and private memory
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+credentials/
+private/
+sensitive/
+raw_exports/
+conversation_exports/
+
+# Generated or local runtime data
+runtime/
+cache/
+embeddings/
+vector_store/
+logs/
+*.sqlite
+*.db
+
+# Personal artifacts
+attachments/
+screenshots/
+*.pdf
+*.docx
+
+# Editor / OS / dependencies
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+node_modules/
+__pycache__/
+*.py[cod]
