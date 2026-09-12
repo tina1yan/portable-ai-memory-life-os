@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1",
+  "generated_at": "2026-01-15T12:00:00Z",
+  "generated_from": [
+    "10_MEMORY/INDEX.md",
+    "20_PROJECTS/INDEX.md"
+  ],
+  "topics": {
+    "working_preferences": {
+      "canonical_path": "10_MEMORY/PREFERENCES.md",
+      "sensitivity": "private",
+      "read_when": "The task depends on collaboration or output style"
+    },
+    "example_project": {
+      "canonical_path": "20_PROJECTS/EXAMPLE_PROJECT/README.md",
+      "sensitivity": "private",
+      "read_when": "The task concerns the example project"
+    }
+  },
+  "warning": "Generated cache. Canonical Markdown wins on conflict."
+}
