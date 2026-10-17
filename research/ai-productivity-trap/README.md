@@ -4,6 +4,8 @@
 
 **Tina Qiaotian Yan · Open research note · v0.1 · October 17, 2026 · Anonymized practitioner case · Not peer reviewed**
 
+**[📄 Published preprint on Zenodo](https://zenodo.org/records/23439046)** · **[DOI](https://doi.org/10.5281/zenodo.23439046)**
+
 **[Read the full paper →](PAPER.md)** · **[Measures & methodology →](METHODS_AND_METRICS.md)** · **[Citation →](CITATION.md)**
 
 > AI can make a new project easy to start. But what if the projects we create require more AI to maintain — and more human time to supervise the AI?
