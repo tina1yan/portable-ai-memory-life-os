@@ -1,16 +1,21 @@
-# Zenodo deposit checklist (not yet deposited)
+# Zenodo publication — verified 2026-10-17
 
-This repository provides the public manuscript and supporting methodology. **No Zenodo record or DOI exists yet.** Zenodo requires authenticated deposit through the account interface or an authorized token.
+**Status:** PUBLISHED; not merely a saved draft.
 
-Recommended metadata:
-- Resource type: Publication / Preprint or Working Paper (choose the closest actual available deposit type).
-- Title: The AI Productivity Trap: How Usage Quotas, Project Proliferation, and Agent Memory Gaps Can Create New Human Work.
-- Creator: Tina Qiaotian Yan (independent researcher; no institutional affiliation claimed).
-- Publication date: date of actual Zenodo publication (not necessarily the original manuscript date).
-- Description: Exploratory conceptual framework illustrated with an anonymized first-person case; not peer reviewed and does not estimate effect sizes.
-- Keywords: generative AI; agent continuity; project maintenance; quota pressure; AI verification; human-in-the-loop.
-- License: confirm the manuscript's licensing terms with its owner.
-- Related identifier: GitHub manuscript permalink at a tagged version/commit.
-- Files: manuscript PDF, Markdown manuscript, methodology, version notes (omit raw conversations and personal logs).
+- **Title:** The AI Productivity Trap: How Usage Quotas, Project Proliferation, and Agent Memory Gaps Can Create New Human Work
+- **Author:** Tina Qiaotian Yan, independent researcher
+- **Resource type:** Open-access publication / preprint
+- **Publication date:** 2026-10-17
+- **Version:** 0.1
+- **License:** Creative Commons Attribution 4.0 International
+- **Record:** https://zenodo.org/records/23439046
+- **Registered version DOI:** [10.5281/zenodo.23439046](https://doi.org/10.5281/zenodo.23439046)
+- **Archived manuscript:** AI_Productivity_Trap_v0.1_Tina_Qiaotian_Yan.pdf (about 92.9 kB)
+- **File MD5 as publicly listed by Zenodo:** 3850dd6fada45d3a0697e63572d53be4
+- **Related GitHub work:** https://github.com/tina1yan/portable-ai-memory-life-os/tree/main/research/ai-productivity-trap
 
-After Zenodo publishes a record: record the **real** DOI, cite archived files and version, and add DOI link to GitHub README and CITATION. Neither drafting this checklist nor uploading to GitHub alone grants a DOI.
+The DOI and record were independently checked against the public Zenodo landing page and a DOI redirect. The first automatic upload attempt could not interact with the browser file picker; the author later uploaded the PDF through the Zenodo interface. The publication automation then completed the record and confirmed the final DOI. No Community membership or peer review is claimed.
+
+**Future revisions:** The GitHub manuscript may evolve, but to modify the archived paper file, create a **new Zenodo version**. Keep the DOI of v0.1 unchanged and use the newly assigned version DOI for any later release. The full DOI is for this exact v0.1 deposit.
+
+For future submissions, see [Independent Research Publishing Skill](../../skills/independent-research-publishing/SKILL.md).
