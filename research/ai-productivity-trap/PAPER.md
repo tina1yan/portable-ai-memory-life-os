@@ -5,7 +5,7 @@
 **An exploratory conceptual research note with an anonymized practitioner case**  
 **Version:** 0.1 · 17 October 2026  
 **Author:** Tina Qiaotian Yan (independent researcher; anonymized practitioner case)  
-**Status:** Public working paper. **Not peer reviewed. No DOI has been assigned.**
+**Status:** Public open-access exploratory preprint (not peer reviewed). **Archived v0.1 DOI:** [10.5281/zenodo.23439046](https://doi.org/10.5281/zenodo.23439046).
 
 > **Abstract.** AI assistants can radically lower the cost of starting a project without proportionately lowering the cost of maintaining it. This note proposes an exploratory *AI Productivity Trap*: prepaid or periodically resetting AI usage allowances can create a perceived incentive to start optional work; easier creation increases the stock of active projects; and those projects create recurring verification, repair, coordination, and recontextualization obligations. Limited context windows are only one part of the problem: inaccessible histories, unsuccessful retrieval, fragmented task state, weak handoffs, and the absence of independent completion checks can repeatedly shift work back to the human. An anonymized single-practitioner narrative from several months of personal AI-assisted projects is used to derive testable propositions, not to establish causal effects or prevalence. The paper proposes a lightweight measurement protocol and a bounded autonomy architecture in which agents do maintenance only when their outcomes can be independently verified. Its central question is whether AI increases *net realized human freedom* rather than simply increasing generated output.
 
