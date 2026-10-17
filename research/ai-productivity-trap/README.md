@@ -2,7 +2,7 @@
 
 ### When AI makes creation easy, who maintains everything we create?
 
-**Open research note · v0.1 · October 17, 2026 · Independent practitioner case · Not peer reviewed**
+**Tina Qiaotian Yan · Open research note · v0.1 · October 17, 2026 · Anonymized practitioner case · Not peer reviewed**
 
 **[Read the full paper →](PAPER.md)** · **[Measures & methodology →](METHODS_AND_METRICS.md)** · **[Citation →](CITATION.md)**
 
