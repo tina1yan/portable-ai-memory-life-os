@@ -255,6 +255,9 @@ MIT licensed. This is an architecture and starter kit, not a promise of perfect 
 
 An [exploratory and anonymized research note](research/ai-productivity-trap/README.md) on subscription quota pressure, AI-assisted project proliferation, agent memory gaps, and human verification work. Read the [working paper](research/ai-productivity-trap/PAPER.md) and [methods](research/ai-productivity-trap/METHODS_AND_METRICS.md). **Not peer reviewed; no DOI yet.**
 
+
+**Published v0.1 on Zenodo:** [Public manuscript and DOI](https://doi.org/10.5281/zenodo.23439046) · [Citation metadata](research/ai-productivity-trap/CITATION.md). The work is an open-access preprint, not peer reviewed.
+
 ## Reusable skill: Independent Research Publishing
 
 From personal observation to source-backed independent working paper, GitHub manuscript, and verified Zenodo DOI. Includes anonymization, literature verification, license/author checks, failure recovery and versioning. [Read the Independent Research Publishing Skill](skills/independent-research-publishing/README.md). 
