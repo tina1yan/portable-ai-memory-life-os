@@ -1,0 +1,2 @@
+timestamp,project_pseudonym,task_id,task_origin,reason,quota_reset_proximity_hours,human_creation_minutes,human_maintenance_minutes,human_verification_minutes,human_coordination_minutes,human_context_recovery_minutes,issue_category,outcome,independent_evidence,notes
+2026-10-17T12:00:00-04:00,EXAMPLE_ONLY,TASK-EXAMPLE,user,curiosity,,0,0,0,0,0,,example_only,,Delete this fictional example before using
