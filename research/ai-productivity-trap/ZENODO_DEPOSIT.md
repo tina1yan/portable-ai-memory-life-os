@@ -5,7 +5,7 @@ This repository provides the public manuscript and supporting methodology. **No 
 Recommended metadata:
 - Resource type: Publication / Preprint or Working Paper (choose the closest actual available deposit type).
 - Title: The AI Productivity Trap: How Usage Quotas, Project Proliferation, and Agent Memory Gaps Can Create New Human Work.
-- Creator: use the author's chosen public name/pseudonym; do not infer a legal name or affiliation.
+- Creator: Tina Qiaotian Yan (independent researcher; no institutional affiliation claimed).
 - Publication date: date of actual Zenodo publication (not necessarily the original manuscript date).
 - Description: Exploratory conceptual framework illustrated with an anonymized first-person case; not peer reviewed and does not estimate effect sizes.
 - Keywords: generative AI; agent continuity; project maintenance; quota pressure; AI verification; human-in-the-loop.
