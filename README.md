@@ -250,3 +250,7 @@ Please use fictional examples in issues. Do not post real personal memory or cre
 ## License and disclaimer
 
 MIT licensed. This is an architecture and starter kit, not a promise of perfect recall, privacy, or psychological representation. A file system can preserve context; it cannot capture the whole person. Honestly, neither can one chat window—and that is kind of the point 🧠✨
+
+## Research note: The AI Productivity Trap
+
+An [exploratory and anonymized research note](research/ai-productivity-trap/README.md) on subscription quota pressure, AI-assisted project proliferation, agent memory gaps, and human verification work. Read the [working paper](research/ai-productivity-trap/PAPER.md) and [methods](research/ai-productivity-trap/METHODS_AND_METRICS.md). **Not peer reviewed; no DOI yet.**
