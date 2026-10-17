@@ -253,7 +253,7 @@ MIT licensed. This is an architecture and starter kit, not a promise of perfect 
 
 ## Research note: The AI Productivity Trap
 
-An [exploratory and anonymized research note](research/ai-productivity-trap/README.md) on subscription quota pressure, AI-assisted project proliferation, agent memory gaps, and human verification work. Read the [working paper](research/ai-productivity-trap/PAPER.md) and [methods](research/ai-productivity-trap/METHODS_AND_METRICS.md). **Not peer reviewed; no DOI yet.**
+An [exploratory and anonymized research note](research/ai-productivity-trap/README.md) on subscription quota pressure, AI-assisted project proliferation, agent memory gaps, and human verification work. Read the [working paper](research/ai-productivity-trap/PAPER.md) and [methods](research/ai-productivity-trap/METHODS_AND_METRICS.md). **Open-access v0.1 preprint, DOI: [10.5281/zenodo.23439046](https://doi.org/10.5281/zenodo.23439046). Not peer reviewed.**
 
 
 **Published v0.1 on Zenodo:** [Public manuscript and DOI](https://doi.org/10.5281/zenodo.23439046) · [Citation metadata](research/ai-productivity-trap/CITATION.md). The work is an open-access preprint, not peer reviewed.
