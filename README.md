@@ -261,3 +261,7 @@ An [exploratory and anonymized research note](research/ai-productivity-trap/READ
 ## Reusable skill: Independent Research Publishing
 
 From personal observation to source-backed independent working paper, GitHub manuscript, and verified Zenodo DOI. Includes anonymization, literature verification, license/author checks, failure recovery and versioning. [Read the Independent Research Publishing Skill](skills/independent-research-publishing/README.md). 
+
+## Research note #2: The AI Agora 🌳
+
+[Read the independent conceptual preprint](research/ai-agora/README.md): *From Everyday Questions to Citable Knowledge* — a proposal for lowering barriers to first-time independent research with evidence-grounded AI verification and a forkable Research Tree. Author: Tina Qiaotian Yan. Version 0.1 (2026-10-18); not peer reviewed. Zenodo DOI for the second paper is pending archival publication.
