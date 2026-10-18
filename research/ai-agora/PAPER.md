@@ -6,6 +6,8 @@
 Independent researcher  
 **18 October 2026 · Version 0.1 · Open-access preprint manuscript**
 
+**Published archive (this paper):** [Zenodo 10.5281/zenodo.23459432](https://doi.org/10.5281/zenodo.23459432) · [Archived PDF](https://zenodo.org/records/23459432/files/AI_Agora_Preprint_v0.1_Tina_Qiaotian_Yan.pdf)
+
 *Article type: Conceptual research note with an illustrative first-person process trace. This manuscript has not been peer reviewed.*
 
 ---
