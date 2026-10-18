@@ -264,4 +264,4 @@ From personal observation to source-backed independent working paper, GitHub man
 
 ## Research note #2: The AI Agora 🌳
 
-[Read the independent conceptual preprint](research/ai-agora/README.md): *From Everyday Questions to Citable Knowledge* — a proposal for lowering barriers to first-time independent research with evidence-grounded AI verification and a forkable Research Tree. Author: Tina Qiaotian Yan. Version 0.1 (2026-10-18); not peer reviewed. Zenodo DOI for the second paper is pending archival publication.
+[Read the independent conceptual preprint](research/ai-agora/README.md): *From Everyday Questions to Citable Knowledge* — a proposal for lowering barriers to first-time independent research with evidence-grounded AI verification and a forkable Research Tree. Author: Tina Qiaotian Yan. Version 0.1 (2026-10-18); not peer reviewed. Zenodo v0.1 DOI: [10.5281/zenodo.23459432](https://doi.org/10.5281/zenodo.23459432).
