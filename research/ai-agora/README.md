@@ -6,7 +6,7 @@
 
 > Can generative AI lower the barriers to a first attributable research contribution from a practitioner outside a conventional academic institution—without making weak evidence look stronger than it is?
 
-**[Read full working paper](PAPER.md)** · **[Citation and status](CITATION.md)** · **[License](LICENSE.md)**
+**[📄 Published preprint on Zenodo](https://zenodo.org/records/23459432)** · **[DOI: 10.5281/zenodo.23459432](https://doi.org/10.5281/zenodo.23459432)** · [Full manuscript](PAPER.md) · [Citation](CITATION.md) · [License](LICENSE.md)
 
 This research note distinguishes **intensive-margin AI productivity among existing researchers** from **extensive-margin entry by new independent contributors**. It proposes a six-stage entry-cost framework, a first-person process-trace case, five falsifiable propositions, and the **AI Agora / Research Tree** as a design hypothesis for open discussion and evidence-grounded verification.
 
@@ -17,7 +17,7 @@ This research note distinguishes **intensive-margin AI productivity among existi
 - **Important limit:** the author did **not** perform a comparable AI-free study; this paper therefore does not estimate how much time AI saved or whether AI increased population-level first-publication rates.
 - **Prior art:** UNESCO open science, citizen science, Octopus, Manubot and scholarly knowledge graphs already pursue parts of this goal. The integrated framework is presented as a proposal, not a claim to have invented open participation.
 - **Verification:** AI can conduct valuable bounded checks, but “AI reviewed” must not be mistaken for independently verified scientific truth.
-- **Status:** Complete v0.1 preprint manuscript on GitHub. Zenodo DOI: **pending archival publication**; do not mistake the DOI cited for the *first* paper for this paper's DOI.
+- **Status:** **Published** October 18, 2026, as an open-access preprint at Zenodo, version DOI [10.5281/zenodo.23459432](https://doi.org/10.5281/zenodo.23459432); not peer reviewed.
 
 ### Paper structure
 
@@ -37,4 +37,4 @@ Copyright © 2026 Tina Qiaotian Yan. Original manuscript licensed [CC BY 4.0](LI
 
 **[Related first paper: The AI Productivity Trap](../ai-productivity-trap/README.md)** · **[Independent Research Publishing Skill](../../skills/independent-research-publishing/README.md)**
 
-**Future updates:** This directory will preserve version history. An actual Zenodo DOI will be added to the citation once publicly verified.
+**Future updates:** This directory preserves the v0.1 GitHub manuscript and citation. Amendments to Zenodo's archived PDF require a new Zenodo version rather than silently replacing v0.1.
